@@ -2,8 +2,6 @@
 
 ![Screenshot](Covid19_Header.png)
 
-
-\n\n
 COVID-19 has ravaged the world and changed the course of history drastically. As of February 2021, it has infected more than 100,000,000 lives on earth - a number so large that it's too hard to fathom. Even among those who have not have contracted COVID, it has surely impacted them economically, socially, or psychologically. As an example, The U.S. metroplitian unemployment rate in Novemeber 2019 was estimated to be around 3.3% and in Novemeber 2020 it was estimated to be around 6.4% [1]. The OECD reported that in November 2020, over half of the world's population experienced a lockdown of some kind [2]. These numbers do not make one sleep soundly at night and demand immediate attention.
 
 
