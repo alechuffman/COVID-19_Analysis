@@ -31,8 +31,8 @@ https://ourworldindata.org/grapher/covid-stringency-index (For information on HD
 
 **Data Sources:**
 
-Vaccine Data
+Vaccine Data:
 https://data.mendeley.com/datasets/b2wvnbnpj9/1
 
-Global Economic Data
+Global Economic Data:
 https://github.com/owid/covid-19-data/tree/master/public/data
